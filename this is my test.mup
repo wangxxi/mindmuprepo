@@ -4,12 +4,25 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "another day passed",
-      "id": 2
+      "title": "what do you think",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "another day passed",
+          "id": 2
+        }
+      }
+    },
+    "2": {
+      "title": "but the problem here is we want to do it correctly",
+      "id": 5
     },
     "-1": {
       "title": "yes ",
       "id": 3
     }
+  },
+  "attr": {
+    "style": {}
   }
 }
