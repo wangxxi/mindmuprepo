@@ -1,0 +1,23 @@
+{
+  "title": "this is my first app",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "what do you think",
+      "id": 2,
+      "attr": {
+        "position": [
+          185,
+          -316,
+          1
+        ],
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "we are good",
+      "id": 3
+    }
+  }
+}
